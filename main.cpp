@@ -10,7 +10,7 @@ using namespace std;
 // 全局变量定义
 int wz[10];       // 物品数量数组
 int x,y,cm,jh,sc,xd,xl=90,countt=1,xxx,yyy,zcount,ht,nm,a,gxl=100,ms,zco,zl=10,zzl;
-bool ij=0,tc;     // ij: 跳跃状态, tc: 未使用
+bool ij=0;     // ij: 跳跃状态
 
 // 设置控制台颜色函数
 void cl(int a){
@@ -554,3 +554,4 @@ int main(){
     }
     return 0;
 }
+
