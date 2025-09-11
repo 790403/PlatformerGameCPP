@@ -1,3 +1,5 @@
+<img width="873" height="386" alt="image" src="https://github.com/user-attachments/assets/461e2b0f-6f4b-49ef-b162-8428f5f1d4a5" />
+
 # PlatformerGameCPP
 这个游戏要开c++11你可以搜<你的编辑器名字>+“的c++怎么开成11”
 # 全手写,给个star吧，求你了！！！
